@@ -38,7 +38,7 @@ $(document).ready(function(){
 <<<<<<< HEAD
         strings: ["UI/UX Designer", "Mobile Developer", "Android Native Developer", "Flutter Developer", "Freelancer"],
 =======
-        strings: ["UI/UX Designer", "Mobile Developer", "Android Native Dev", "Flutter Developer", "Freelancer","Front-End Dev"],
+        strings: ["UI/UX Designer", "Mobile Developer", "Android Native Dev", "Flutter Developer", "Freelancer"]
 >>>>>>> 03f001bc04a41ae6b90cea19bf8aadf6aaf86019
         typeSpeed: 100,
         backSpeed: 60,
