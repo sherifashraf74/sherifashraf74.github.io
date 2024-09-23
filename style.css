@@ -737,4 +737,17 @@ footer span a:hover{
         font-size: 23px;
         line-height: 38px;
     }
+    @media (max-width: 768px) {
+        .zaetoon-chat-widget {
+            bottom: 10px !important; 
+            right: 10px !important;  
+        }
+    
+        .zaetoon-close-button {
+            display: block !important; 
+            width: 40px; 
+            height: 40px;
+            font-size: 18px; 
+        }
+    }
 }
