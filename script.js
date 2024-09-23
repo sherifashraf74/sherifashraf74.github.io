@@ -73,6 +73,26 @@ $(document).ready(function(){
     });
 });
 
+window.chatId = 'f5549f95-920f-4844-8b35-3b6c7de5e169';
+window.locale = 'en';
+window.position = 'bottom-right';
+window.positionX = 30;
+window.positionY = 30;
+window.borderRadius = 3;
+window.helpdeskURL = 'https://sherifashrafportfolio.zaetoon.com';
+
+(function () {
+    var d = document;
+    var s = d.createElement('script');
+    s.src = 'https://sherifashrafportfolio.zaetoon.com/assets/widget/zaetoon-widget.min.js';
+    s.async = 1;
+    d.getElementsByTagName('head')[0].appendChild(s);
+})();
+
+
+
+
+
 document.addEventListener('DOMContentLoaded', () => {
     const starContainer = document.querySelector('.home');
     const numStars = 100;  // Adjust the number of stars to generate
