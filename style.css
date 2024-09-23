@@ -144,7 +144,7 @@ section .title::after{
 
 /* menu btn styling */
 .menu-btn{
-    color: #fff;
+    color: #330c0c;
     font-size: 23px;
     cursor: pointer;
     display: none;
@@ -167,9 +167,10 @@ section .title::after{
     opacity: 0;
     pointer-events: none;
     transition: all 0.3s ease;
-}
+}   
 .scroll-up-btn.show{
     bottom: 30px;
+    left: 30px;
     opacity: 1;
     pointer-events: auto;
 }
